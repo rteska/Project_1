@@ -9,6 +9,8 @@
     {"id":{"name":"winScreen","path":"rooms/winScreen/winScreen.yy",},"order":1,},
     {"id":{"name":"deathBlock","path":"sprites/deathBlock/deathBlock.yy",},"order":13,},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},"order":3,},
+    {"id":{"name":"enemyRobot","path":"objects/enemyRobot/enemyRobot.yy",},"order":5,},
+    {"id":{"name":"EnemyRobot","path":"sprites/EnemyRobot/EnemyRobot.yy",},"order":18,},
     {"id":{"name":"playerRun","path":"sprites/playerRun/playerRun.yy",},"order":5,},
     {"id":{"name":"collisionBlockObj","path":"objects/collisionBlockObj/collisionBlockObj.yy",},"order":0,},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},"order":15,},
@@ -37,7 +39,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
