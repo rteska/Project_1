@@ -31,6 +31,7 @@
     {"id":{"name":"door","path":"sprites/door/door.yy",},"order":17,},
     {"id":{"name":"playerHit","path":"sprites/playerHit/playerHit.yy",},"order":7,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"doorObj","path":"objects/doorObj/doorObj.yy",},"order":6,},
     {"id":{"name":"deathBlockObj","path":"objects/deathBlockObj/deathBlockObj.yy",},"order":1,},
     {"id":{"name":"startScreen","path":"rooms/startScreen/startScreen.yy",},"order":0,},
   ],
