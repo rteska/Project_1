@@ -21,7 +21,7 @@ if (instance_place(x, y+1, wallObj) or instance_place(x, y+1, wall2Obj)){
 		}
 	}
 }else{
-	gravity = .75
+	gravity = .5
 	sprite_index = playerJump
 }
 if (instance_place(x, y-5, wallObj) or instance_place(x, y-5, wall2Obj)){
