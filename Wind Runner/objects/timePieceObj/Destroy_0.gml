@@ -1,0 +1,1 @@
+audio_play_sound(timePieceSound, 0, false)
