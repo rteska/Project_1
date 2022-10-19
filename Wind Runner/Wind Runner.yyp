@@ -10,6 +10,7 @@
     {"id":{"name":"wall2Obj","path":"objects/wall2Obj/wall2Obj.yy",},"order":5,},
     {"id":{"name":"winScreen","path":"rooms/winScreen/winScreen.yy",},"order":1,},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},"order":3,},
+    {"id":{"name":"fireballsp","path":"sprites/fireballsp/fireballsp.yy",},"order":21,},
     {"id":{"name":"playerRun","path":"sprites/playerRun/playerRun.yy",},"order":5,},
     {"id":{"name":"timerFont","path":"fonts/timerFont/timerFont.yy",},"order":0,},
     {"id":{"name":"wallObj","path":"objects/wallObj/wallObj.yy",},"order":0,},
