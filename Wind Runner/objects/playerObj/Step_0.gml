@@ -16,12 +16,12 @@ if (instance_place(x, y+1, wallObj) or instance_place(x, y+1, wall2Obj)){
 	if (keyboard_check(vk_up)){
 	vspeed = jumpHeight
 	audio_play_sound(jumpSound, 0, false)
-		if (instance_place(x, y-5, wallObj) or instance_place(x, y-5, wall2Obj)){
+	if (instance_place(x, y-5, wallObj) or instance_place(x, y-5, wall2Obj)){
 		y-=1
 		}
 	}
 }else{
-	gravity = .5
+	gravity = .75
 	sprite_index = playerJump
 }
 if (instance_place(x, y-5, wallObj) or instance_place(x, y-5, wall2Obj)){
