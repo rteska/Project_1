@@ -1,1 +1,0 @@
-audio_play_sound(winSound, 0, false)
