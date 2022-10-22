@@ -5,5 +5,5 @@ if(countdown <= 10){
 }
 if(countdown <= 0){
 	countdown = 0
-	instance_destroy(playerObj)
+	room_goto(loseScreen)
 }
