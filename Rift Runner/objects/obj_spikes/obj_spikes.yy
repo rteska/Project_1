@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_spikes",
   "spriteId": {
     "name": "spr_spike",
     "path": "sprites/spr_spike/spr_spike.yy",
@@ -31,8 +34,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_spikes",
-  "tags": [],
-  "resourceType": "GMObject",
 }

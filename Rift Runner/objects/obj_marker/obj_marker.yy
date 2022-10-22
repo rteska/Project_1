@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_marker",
   "spriteId": {
     "name": "spr_marker",
     "path": "sprites/spr_marker/spr_marker.yy",
@@ -28,8 +31,4 @@
     "name": "Collisions",
     "path": "folders/Objects/Collisions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_marker",
-  "tags": [],
-  "resourceType": "GMObject",
 }
