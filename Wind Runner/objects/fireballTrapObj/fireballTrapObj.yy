@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "playerDeathObj",
+  "name": "fireballTrapObj",
   "spriteId": {
-    "name": "playerDeath",
-    "path": "sprites/playerDeath/playerDeath.yy",
+    "name": "wall2",
+    "path": "sprites/wall2/wall2.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,8 +25,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"smallFireballObj","path":"objects/smallFireballObj/smallFireballObj.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
